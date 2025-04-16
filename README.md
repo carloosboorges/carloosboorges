@@ -1,6 +1,6 @@
 # 👨‍💻 Carlos | Estudante de Ciência da Computação
 
-Sou estudante de Ciência da Computação, apaixonado por tecnologia e em constante aprendizado. Já participei de diversos cursos e bootcamps nas plataformas DIO, Udemy e Alura, com foco em Java, Spring Boot e bancos de dados relacionais.
+Sou estudante de Ciência da Computação, entusiasta da tecnologia e sempre em busca de novos aprendizados. Tenho me dedicado a desenvolver habilidades sólidas em desenvolvimento backend, com foco em Java, Spring Boot e bancos de dados relacionais. Participei de diversos cursos e bootcamps nas plataformas DIO, Udemy e Alura, onde aprofundei meus conhecimentos em projetos práticos e experiências reais de desenvolvimento.
 
 ---
 
