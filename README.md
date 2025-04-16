@@ -6,7 +6,7 @@ Sou estudante de Ciência da Computação, entusiasta da tecnologia e sempre em 
 
 ## 🚀 Tecnologias que estou usando:
 
-- Java 8+
+- Java 
 - Spring Boot
 - MySQL
 - Maven
