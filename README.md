@@ -44,6 +44,8 @@ Sou estudante de Ciência da Computação, apaixonado por tecnologia e em consta
 - Email: **carloos-boorges@hotmail.com**
 - LinkedIn: [linkedin.com/in/carloosboorges](https://www.linkedin.com/in/carloosboorges/)
 - GitHub: [github.com/carloosboorges](https://github.com/carloosboorges)
+- 📱 WhatsApp: +55 (81) 9 9107-1950
+
 
 ---
 
