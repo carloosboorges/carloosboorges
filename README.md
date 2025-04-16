@@ -6,13 +6,19 @@ Sou estudante de Ciência da Computação, entusiasta de tecnologia e apaixonado
 
 ## 🚀 Tecnologias que estou usando:
 
-- Java 
+- Java 8+
 - Spring Boot
+- Spring Security
 - MySQL
+- MongoDB (NoSQL)
 - Maven
 - JPA / Hibernate
-- HTML e CSS (básico)
+- JUnit (Testes Unitários)
+- HTML e CSS 
 - Git e GitHub
+- Docker
+- API REST
+- GitHub Actions
 
 ---
 
