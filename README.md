@@ -1,6 +1,6 @@
 # 👨‍💻 Carlos Borges | Estudante de Ciência da Computação
 
-Sou estudante de Ciência da Computação, entusiasta de tecnologia e apaixonado por aprendizado contínuo. Tenho me dedicado ao desenvolvimento de habilidades sólidas em backend, com foco em Java, Spring Boot e bancos de dados SQL e NoSQL. Participei de diversos cursos e bootcamps nas plataformas DIO, Udemy e Alura, onde aprofundei meus conhecimentos por meio de projetos práticos e experiências aplicadas ao mundo real.
+Sou estudante de Ciência da Computação, entusiasta de tecnologia e apaixonado por aprendizado contínuo. Tenho me dedicado ao desenvolvimento de habilidades sólidas em backend, com foco em Java, Spring Boot e bancos de dados SQL e NoSQL. Participei de diversos cursos e bootcamps nas plataformas DIO, Udemy e Alura, Santender onde aprofundei meus conhecimentos por meio de projetos práticos e experiências aplicadas ao mundo real.
 
 ---
 
