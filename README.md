@@ -107,11 +107,11 @@ I'm passionate about technology, continuous learning, and building efficient bac
 
 ### 📄 Selected Certifications
 
-- Java and Spring Boot – Alura
-- SQL with Oracle and MySQL – Alura
-- Java Backend – Santander
-- Spring Security – DIO
-- MongoDB and NoSQL – DIO
+- [Java and Spring Boot – Alura](https://cursos.alura.com.br/user/carloos-boorges/degree-spring-boot-3-475714/certificate)
+- [SQL with Oracle and MySQL – Alura](https://cursos.alura.com.br/user/carloos-boorges/degree-oracle-mysql-v3983-3983/certificate?lang=en)
+- [Java Backend – Santander](https://github.com/carloosboorges/meus-certificados/blob/main/Santander%202024%20-%20Backend%20com%20Java.jpeg)
+- [Spring Security – DIO](https://github.com/carloosboorges/meus-certificados/blob/main/Adicionando%20Seguran%C3%A7a%20a%20uma%20API%20REST%20com%20Spring%20Security.JPG)
+- [MongoDB and NoSQL – DIO](https://github.com/carloosboorges/meus-certificados/blob/main/Introdu%C3%A7%C3%A3o%20ao%20MongoDB%20e%20Banco%20de%20Dados%20NoSQL.jpg)
 
 ---
 
