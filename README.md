@@ -29,6 +29,8 @@ Sou apaixonado por tecnologia, aprendizado contínuo e criação de soluções e
 | 🎬 [ScreenMatch](https://github.com/carloosboorges/ScreenMatchSeries) | Busca e exibe informações sobre filmes e séries via API REST. | Java, API REST, Orientação a Objetos |
 | 🧙 [Consulta Personagem](https://github.com/carloosboorges/Consulta_Personagem) | Exibe dados de personagens como nome, obra e curiosidades. | Java, MySQL, JDBC |
 | 🩺 [Consulta Doença](https://github.com/carloosboorges/Sistema-de-Consulta-de-Informacoes-de-Doencas) | Busca informações sobre doenças armazenadas em banco de dados. | Java, MySQL, JDBC |
+| 🌤️ [Clima-API](https://github.com/carloosboorges/Clima-API) | Sistema que permite buscar dados climáticos de uma cidade, retornando informações como temperatura, umidade e previsão do tempo utilizando uma API externa. | Java, API REST, Consumo de API |
+
 
 ---
 
