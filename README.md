@@ -96,6 +96,8 @@ I'm passionate about technology, continuous learning, and building efficient bac
 - 🎬 **[ScreenMatch](https://github.com/carloosboorges/ScreenMatchSeries)**: Search and display movie and series info using REST API.
 - 🧙 **[Character Info](https://github.com/carloosboorges/Consulta_Personagem)**: Retrieve details about characters, works, actors, and curiosities.
 - 🩺 **[Disease Info](https://github.com/carloosboorges/Sistema-de-Consulta-de-Informacoes-de-Doencas)**: Consult disease data stored in MySQL using JDBC.
+- | 🌤️ [Clima-API](https://github.com/carloosboorges/Clima-API) | A system that allows you to search for weather data of a city, returning information such as temperature, humidity, and weather forecast using an external API. | Java, REST API, API Consumption |
+
 
 ---
 
