@@ -30,6 +30,7 @@ Sou apaixonado por tecnologia, aprendizado contínuo e criação de soluções e
 | 🧙 [Consulta Personagem](https://github.com/carloosboorges/Consulta_Personagem) | Exibe dados de personagens como nome, obra e curiosidades. | Java, MySQL, JDBC |
 | 🩺 [Consulta Doença](https://github.com/carloosboorges/Sistema-de-Consulta-de-Informacoes-de-Doencas) | Busca informações sobre doenças armazenadas em banco de dados. | Java, MySQL, JDBC |
 | 🌤️ [Clima-API](https://github.com/carloosboorges/Clima-API) | Sistema que permite buscar dados climáticos de uma cidade, retornando informações como temperatura, umidade e previsão do tempo utilizando uma API externa. | Java, API REST, Consumo de API |
+| 💸 [PicPay Simplificado](https://github.com/carloosboorges/picpaysimplificado) | API REST inspirada no PicPay, com cadastro de usuários, transferências entre contas, autenticação e validações. Testado com Insomnia. | Java, Spring Boot, Spring Data JPA, MySQL, API REST.
 
 
 ---
@@ -99,6 +100,8 @@ I'm passionate about technology, continuous learning, and building efficient bac
 | 🧙 [Character Info](https://github.com/carloosboorges/Consulta_Personagem) | Retrieve details about characters, works, actors, and curiosities. | Java, MySQL, JDBC |
 | 🩺 [Disease Info](https://github.com/carloosboorges/Sistema-de-Consulta-de-Informacoes-de-Doencas) | Consult disease data stored in MySQL using JDBC. | Java, MySQL, JDBC |
 | 🌤️ [Clima-API](https://github.com/carloosboorges/Clima-API) | A system that allows you to search for weather data of a city, returning information such as temperature, humidity, and weather forecast using an external API. | Java, REST API, API Consumption |
+| 💸 [Simplified PicPay](https://github.com/carloosboorges/picpaysimplificado) | REST API inspired by PicPay, featuring user registration, authentication, account transfers, and data validation. Tested with Insomnia. | Java, Spring Boot, Spring Data JPA, MySQL, REST API.
+
 
 
 ---
