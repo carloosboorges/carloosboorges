@@ -56,6 +56,11 @@ Desenvolvedor Back-End com foco em Java, comprometido com a construção de solu
 - 🍃 [MongoDB e NoSQL - DIO](https://github.com/carloosboorges/meus-certificados/blob/main/Introdu%C3%A7%C3%A3o%20ao%20MongoDB%20e%20Banco%20de%20Dados%20NoSQL.jpg)
 
 ---
+## 📫 Contato
+
+- 📧 carloos-boorges@hotmail.com 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/carloosboorges/)  
+
 
 <div align=center>
 
@@ -65,17 +70,14 @@ Desenvolvedor Back-End com foco em Java, comprometido com a construção de solu
 
 </div>
 
+
+
 ## 📈 GitHub Stats
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carloosboorges&show_icons=true&theme=tokyonight" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloosboorges&layout=compact&theme=tokyonight" />
 </div>
-
-## 📫 Contato
-
-- 📧 **Email:** carlosborges.dev@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/carloosboorges/)  
 
 
 ---
