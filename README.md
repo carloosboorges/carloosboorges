@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Carlos Borges</h1>
+<h1 align="center">👋 Olá, sou Carlos Borges</h1>
 
 <p align="center">💻 Desenvolvedor Back-End Java | 🎓 Estudante de Ciência da Computação | Apaixonado pela programação tradicional</p>
 
