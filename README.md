@@ -8,8 +8,6 @@
 
 ---
 
-![Snake animation](https://github.com/carloosboorges/carloosboorges/blob/output/github-contribution-grid-snake.svg)
-
 ## 🚀 Sobre mim
 
 Sou estudante de Ciência da Computação, dedicado ao desenvolvimento Back-End com Java. Valorizo o conhecimento sólido e as práticas tradicionais da programação, buscando sempre aplicar as tecnologias consagradas para construir soluções eficientes e confiáveis. Comprometido com a aprendizagem constante, sigo aprimorando minhas habilidades para entregar resultados consistentes e de qualidade.
@@ -81,3 +79,10 @@ Sou estudante de Ciência da Computação, dedicado ao desenvolvimento Back-End 
 - 🐙 [GitHub](https://github.com/carloosboorges)
 
 ---
+
+![snake gif](https://github.com/carloosboorges/carloosboorges/blob/output/github-contribution-grid-snake.svg)
+
+
+![readme](https://github-readme-stats.vercel.app/api/pin/?username=carloosboorges&repo=carloosboorges&theme=react)
+(https://github.com/carloosboorges/carloosboorges)
+
