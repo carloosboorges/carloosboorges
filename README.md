@@ -6,14 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=carloosboorges&style=flat-square&color=blue" alt="visitas" />
 </div>
 
-<div align=center>
-
-## 🐍 
-
-<img src="https://raw.githubusercontent.com/carloosboorges/carloosboorges/output/snake.svg" alt="Snake animation" />
-
-</div>
-
 ---
 
 ## 🚀 Sobre mim
@@ -65,14 +57,6 @@ Desenvolvedor Back-End com foco em Java, comprometido com a construção de solu
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carloosboorges&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloosboorges&layout=compact&theme=tokyonight" />
-</div>
-
----
 <div align=center>
 
 ## 🐍 
@@ -80,13 +64,19 @@ Desenvolvedor Back-End com foco em Java, comprometido com a construção de solu
 <img src="https://raw.githubusercontent.com/carloosboorges/carloosboorges/output/snake.svg" alt="Snake animation" />
 
 </div>
----
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carloosboorges&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloosboorges&layout=compact&theme=tokyonight" />
+</div>
 
 ## 📫 Contato
 
 - 📧 **Email:** carlosborges.dev@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/carloosboorges/)  
-- 🐙 [GitHub](https://github.com/carloosboorges)
+
 
 ---
 
