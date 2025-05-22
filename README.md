@@ -12,8 +12,7 @@
 
 ## 🚀 Sobre mim
 
-Sou um entusiasta da tecnologia e estudante de Ciência da Computação, com foco em desenvolvimento Back-End com Java. Curioso por natureza, estou sempre em busca de aprender novas tecnologias e criar soluções úteis por meio da programação.
-
+Sou estudante de Ciência da Computação, dedicado ao desenvolvimento Back-End com Java. Valorizo o conhecimento sólido e as práticas tradicionais da programação, buscando sempre aplicar as tecnologias consagradas para construir soluções eficientes e confiáveis. Comprometido com a aprendizagem constante, sigo aprimorando minhas habilidades para entregar resultados consistentes e de qualidade.
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
