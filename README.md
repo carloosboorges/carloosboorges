@@ -2,10 +2,6 @@
 
 <p align="center">💻 Desenvolvedor Back-End Java | 🎓 Estudante de Ciência da Computação | Apaixonado pela programação tradicional</p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=carloosboorges&style=flat-square&color=blue" alt="visitas" />
-</div>
-
 ---
 
 ## 🚀 Sobre mim
@@ -80,7 +76,11 @@ Desenvolvedor Back-End com foco em Java, comprometido com a construção de solu
 </div>
 
 
----
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=carloosboorges&style=flat-square&color=blue" alt="visitas" />
+</div>
+
 
 
 
