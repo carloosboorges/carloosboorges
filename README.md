@@ -4,6 +4,8 @@ Sou apaixonado por tecnologia, aprendizado contínuo e criação de soluções e
 
 ---
 
+![Snake animation](https://github.com/carloosboorges/carloosboorges/blob/output/github-contribution-grid-snake.svg)
+
 ## 🚀 Tecnologias e Ferramentas
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
