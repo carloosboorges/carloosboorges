@@ -80,9 +80,5 @@ Sou estudante de Ciência da Computação, dedicado ao desenvolvimento Back-End 
 
 ---
 
-![snake gif](https://github.com/carloosboorges/carloosboorges/blob/output/github-contribution-grid-snake.svg)
-
-
-![readme](https://github-readme-stats.vercel.app/api/pin/?username=carloosboorges&repo=carloosboorges&theme=react)
-(https://github.com/carloosboorges/carloosboorges)
+<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />)
 
