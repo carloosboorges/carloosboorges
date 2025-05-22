@@ -6,6 +6,14 @@
   <img src="https://komarev.com/ghpvc/?username=carloosboorges&style=flat-square&color=blue" alt="visitas" />
 </div>
 
+<div align=center>
+
+## 🐍 
+
+<img src="https://raw.githubusercontent.com/carloosboorges/carloosboorges/output/snake.svg" alt="Snake animation" />
+
+</div>
+
 ---
 
 ## 🚀 Sobre mim
@@ -65,11 +73,13 @@ Sou estudante de Ciência da Computação, dedicado ao desenvolvimento Back-End 
 </div>
 
 ---
+<div align=center>
 
-## 🐍 Snake comendo meu GitHub contribution graph
+## 🐍 
 
-![snake gif](https://github.com/carloosboorges/carloosboorges/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/carloosboorges/carloosboorges/output/snake.svg" alt="Snake animation" />
 
+</div>
 ---
 
 ## 📫 Contato
@@ -80,5 +90,5 @@ Sou estudante de Ciência da Computação, dedicado ao desenvolvimento Back-End 
 
 ---
 
-<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />)
+
 
