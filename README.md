@@ -36,7 +36,7 @@ Desenvolvedor Back-End com foco em Java, comprometido com a construção de solu
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | 🎬 [ScreenMatch](https://github.com/carloosboorges/ScreenMatchSeries) | Busca e exibe informações sobre filmes e séries via API REST. | Java, API REST, Orientação a Objetos |
-| 🎞️ [MovieFlix](https://github.com/carloosboorges/movieflix) | API REST para cadastro e gerenciamento de filmes, usuários e categorias com autenticação e controle de acesso. | Java, Spring Boot, PostgreSQL, MongoDB, Spring Security, API REST, Flyway |
+| 🎞️ [MovieFlix](https://github.com/carloosboorges/movieflix) | API REST para cadastro e gerenciamento de filmes, usuários e categorias com autenticação e controle de acesso. | Java, Spring Boot, PostgreSQL, PostgreSQL, Spring Security, API REST, Flyway |
 | 🩺 [Consulta Doença](https://github.com/carloosboorges/Sistema-de-Consulta-de-Informacoes-de-Doencas) | Busca informações sobre doenças armazenadas em banco de dados. | Java, MySQL, JDBC |
 | 🌤️ [Clima-API](https://github.com/carloosboorges/Clima-API) | Busca dados climáticos de uma cidade por API externa. | Java, API REST, JSON |
 | 💸 [PicPay Simplificado](https://github.com/carloosboorges/picpaysimplificado) | API REST com cadastro de usuários, autenticação e transferências. | Java, Spring Boot, MySQL, API REST |
