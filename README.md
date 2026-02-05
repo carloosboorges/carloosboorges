@@ -40,6 +40,8 @@ Desenvolvedor Back-End com foco em Java, comprometido com a construção de solu
 | 🩺 [Consulta Doença](https://github.com/carloosboorges/Sistema-de-Consulta-de-Informacoes-de-Doencas) | Busca informações sobre doenças armazenadas em banco de dados. | Java, MySQL, JDBC |
 | 🌤️ [Clima-API](https://github.com/carloosboorges/Clima-API) | Busca dados climáticos de uma cidade por API externa. | Java, API REST, JSON |
 | 💸 [PicPay Simplificado](https://github.com/carloosboorges/picpaysimplificado) | API REST com cadastro de usuários, autenticação e transferências. | Java, Spring Boot, MySQL, API REST |
+| 💈 [BarberTech](https://github.com/carloosboorges/BarberTech) | API REST para gestão de barbearias com clientes, barbeiros, serviços, combos, produtos, vendas e agendamentos. | Java, Spring Boot, JPA, Flyway, H2, MySQL, Swagger |
+
 
 ---
 
